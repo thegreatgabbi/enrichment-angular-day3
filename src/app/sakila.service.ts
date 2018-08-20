@@ -15,8 +15,10 @@ export interface FilmDetail {
     specialFeatures: string;
 }
 
-const FILMS = "http://localhost:8080/enrichment-angular-day3-java/films";
-const DETAILS = "http://localhost:8080/enrichment-angular-day3-java/film/";
+const FILMS = "http://localhost:3000/films";
+const DETAILS = "http://localhost:3000/film/";
+// const FILMS = "http://localhost:8080/enrichment-angular-day3-java/films";
+// const DETAILS = "http://localhost:8080/enrichment-angular-day3-java/film/";
 
 @Injectable()
 export class SakilaService {
