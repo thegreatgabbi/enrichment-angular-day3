@@ -1,4 +1,4 @@
-# Enrichment Angular Day 3
+# Enrichment: Angular Day 3
 Simple Java backend to demonstrate servlet in JDBC and CORS Filter.
 
 ## Installation
